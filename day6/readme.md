@@ -1,4 +1,4 @@
-# Day 6: Jan 19, 2026
+# Day 6: Jan 20, 2026
 
 **Duration**: ~2–3 hours  
 **Focus**: Core SQL foundations (concept-first, analytics-oriented)
