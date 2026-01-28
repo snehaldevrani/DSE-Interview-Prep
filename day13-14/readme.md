@@ -1,0 +1,25 @@
+# Days 12-13 (Jan 26-27)
+
+Office course deadline approaching (28th). Spent both days on Python fundamentals course.
+
+## What I covered
+
+**Day 12:**
+- Python basics: lists, dicts, tuples, sets
+- String operations and manipulation
+- Core syntax patterns
+
+**Day 13:**
+- Functions: regular, lambda, arguments
+- Recursion basics
+- Namespaces, scopes, closures
+- Decorators
+- Modules and packages, import pitfalls
+- OOP: classes, class decorators
+- Exceptions and magic methods
+
+## Why this matters
+
+Half of this directly helps with DSA (recursion, data structures) and interviews (OOP, decorators are common questions). Not wasted time.
+
+Back to regular prep after course deadline (28th).
