@@ -1,15 +1,15 @@
-# Days 12-13 (Jan 27-28)
+# Days 13-14 (Jan 27-28)
 
 Office course deadline approaching (28th). Spent both days on Python fundamentals course.
 
 ## What I covered
 
-**Day 12:**
+**Day 13:**
 - Python basics: lists, dicts, tuples, sets
 - String operations and manipulation
 - Core syntax patterns
 
-**Day 13:**
+**Day 14:**
 - Functions: regular, lambda, arguments
 - Recursion basics
 - Namespaces, scopes, closures
