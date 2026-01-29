@@ -1,4 +1,4 @@
-# Days 12-13 (Jan 26-27)
+# Days 12-13 (Jan 27-28)
 
 Office course deadline approaching (28th). Spent both days on Python fundamentals course.
 
